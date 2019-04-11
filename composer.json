@@ -1,0 +1,7 @@
+{
+    "name": "timuradilev/test",
+    "description": "test",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {}
+}
